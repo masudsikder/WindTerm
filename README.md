@@ -12,7 +12,7 @@ _Hello WindTerm :rose:, hello world!_
 # Introduction
 
 See [Intro Videos](https://kingtoolbox.github.io)
-
+internal override void Invoke()
 # Download
 
 **Linux binary**, **MacOS binary** and **Windows binary**: https://github.com/kingToolbox/WindTerm/releases
